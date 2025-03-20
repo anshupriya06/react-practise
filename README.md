@@ -1,7 +1,2 @@
 ﻿# react-practise
 
-
-
-
-
-
