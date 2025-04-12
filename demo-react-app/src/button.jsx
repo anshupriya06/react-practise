@@ -4,7 +4,7 @@ export default function Button() {
     };
     return (
         <div style={styles}>
-            <button>hello</button>
+            <button>click me !</button>
         </div>
     );
 }
